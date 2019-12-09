@@ -5,3 +5,5 @@ The following data for the year of 2017 is presented and compared:
 - Netflix's earnings and revenue in the last four quarters
 - The actual vs. estimated earnings per share for the four quarters in 2017
 - A comparison of the Netflix Stock price vs the Dow Jones Industrial Average price in 2017
+
+Financial Data Source: https://finance.yahoo.com/lookup?s=DATA
